@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Image Show.pdb
+\\Mac\Home\Desktop\D3DCompiler_47_cor3.dll
+\\Mac\Home\Desktop\PenImc_cor3.dll
+\\Mac\Home\Desktop\PresentationNative_cor3.dll
+\\Mac\Home\Desktop\vcruntime140_cor3.dll
+\\Mac\Home\Desktop\wpfgfx_cor3.dll
+\\Mac\Home\Desktop\Image Show.exe

@@ -1,0 +1,1038 @@
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.AssemblyReference.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image_Show.Image_Show.resources
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image_Show.ImageShow.resources
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.GenerateResource.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.exe
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.deps.json
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.runtimeconfig.json
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.pdb
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.CSharp.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Core.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.AppContext.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Buffers.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.Concurrent.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.Immutable.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.NonGeneric.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.Specialized.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Annotations.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.DataAnnotations.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Configuration.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Console.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Core.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Data.Common.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Data.DataSetExtensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Data.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Contracts.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Debug.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Process.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.StackTrace.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tools.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TraceSource.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tracing.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Dynamic.Runtime.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Formats.Asn1.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Globalization.Calendars.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Globalization.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Globalization.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Brotli.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.FileSystem.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.ZipFile.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.AccessControl.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Watcher.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.IsolatedStorage.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.MemoryMappedFiles.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.AccessControl.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.Expressions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.Parallel.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.Queryable.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Memory.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Http.Json.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Http.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.HttpListener.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Mail.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.NameResolution.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.NetworkInformation.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Ping.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Quic.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Requests.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Security.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.ServicePoint.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Sockets.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebClient.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebHeaderCollection.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebProxy.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.Client.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Numerics.Vectors.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Numerics.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ObjectModel.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.CoreLib.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.DataContractSerialization.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.Uri.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.Xml.Linq.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.Xml.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.DispatchProxy.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.ILGeneration.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.Lightweight.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Metadata.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.TypeExtensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.Reader.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.ResourceManager.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.Writer.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Handles.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Intrinsics.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Loader.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Numerics.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Formatters.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Json.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Xml.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.AccessControl.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Claims.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Algorithms.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Cng.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Csp.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Encoding.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.OpenSsl.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Principal.Windows.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Principal.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.SecureString.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ServiceModel.Web.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ServiceProcess.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.CodePages.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encodings.Web.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Json.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.RegularExpressions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Channels.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Overlapped.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Dataflow.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Parallel.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Thread.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.ThreadPool.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Timer.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Transactions.Local.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Transactions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.ValueTuple.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Web.HttpUtility.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Web.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.Linq.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.ReaderWriter.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.Serialization.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XDocument.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.XDocument.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XmlDocument.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XmlSerializer.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\mscorlib.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\netstandard.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Accessibility.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\DirectWriteForwarder.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Forms.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.SystemEvents.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationCore.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemCore.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemData.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemDrawing.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXml.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXmlLinq.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero2.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.AeroLite.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Classic.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Luna.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Royale.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationUI.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ReachFramework.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.CodeDom.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Configuration.ConfigurationManager.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Design.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.EventLog.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.DirectoryServices.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.Common.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.Design.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Packaging.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Printing.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Pkcs.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Xml.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Permissions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.AccessControl.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Controls.Ribbon.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Extensions.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.Editors.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Primitives.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Input.Manipulations.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Presentation.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xaml.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationClient.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationClientSideProviders.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationProvider.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationTypes.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\WindowsBase.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\WindowsFormsIntegration.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Native.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-2-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-2-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l2-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-string-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-util-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\clretwrc.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\clrjit.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\coreclr.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\createdump.exe
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\dbgshim.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\hostfxr.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\hostpolicy.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\mscordaccore.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\mscordaccore_x86_x86_6.0.322.12309.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\mscordbi.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\mscorrc.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\msquic.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ucrtbase.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\D3DCompiler_47_cor3.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PenImc_cor3.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationNative_cor3.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\vcruntime140_cor3.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\wpfgfx_cor3.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\cs\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\de\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\es\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\fr\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\it\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ja\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ko\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pl\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\ru\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\tr\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationCore.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationUI.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\ReachFramework.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Xaml.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClient.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClientSideProviders.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationProvider.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationTypes.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsBase.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsFormsIntegration.resources.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image_Show.Resources.resources
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.AssemblyInfoInputs.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.AssemblyInfo.vb
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.CoreCompileInputs.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.CopyComplete
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\refint\Image Show.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.pdb
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.genruntimeconfig.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\win-x86\ref\Image Show.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.exe
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.deps.json
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.runtimeconfig.json
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Image Show.pdb
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.CSharp.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Core.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.AppContext.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Buffers.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.Concurrent.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.Immutable.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.NonGeneric.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.Specialized.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Collections.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Annotations.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.DataAnnotations.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.EventBasedAsync.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.TypeConverter.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ComponentModel.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Configuration.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Console.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Core.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Data.Common.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Data.DataSetExtensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Data.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Contracts.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Debug.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.DiagnosticSource.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.FileVersionInfo.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Process.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.StackTrace.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tools.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TraceSource.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tracing.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Dynamic.Runtime.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Formats.Asn1.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Globalization.Calendars.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Globalization.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Globalization.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Brotli.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.FileSystem.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.ZipFile.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.AccessControl.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.DriveInfo.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Watcher.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.IsolatedStorage.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.MemoryMappedFiles.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.AccessControl.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.UnmanagedMemoryStream.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.Expressions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.Parallel.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.Queryable.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Linq.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Memory.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Http.Json.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Http.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.HttpListener.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Mail.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.NameResolution.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.NetworkInformation.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Ping.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Quic.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Requests.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Security.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.ServicePoint.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.Sockets.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebClient.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebHeaderCollection.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebProxy.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.Client.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Net.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Numerics.Vectors.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Numerics.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ObjectModel.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.CoreLib.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.DataContractSerialization.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.Uri.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.Xml.Linq.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Private.Xml.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.DispatchProxy.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.ILGeneration.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.Lightweight.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Metadata.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.TypeExtensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Reflection.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.Reader.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.ResourceManager.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.Writer.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.VisualC.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Handles.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Intrinsics.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Loader.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Numerics.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Formatters.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Json.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Xml.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Runtime.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.AccessControl.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Claims.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Algorithms.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Cng.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Csp.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Encoding.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.OpenSsl.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.X509Certificates.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Principal.Windows.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Principal.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.SecureString.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ServiceModel.Web.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ServiceProcess.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.CodePages.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Encodings.Web.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.Json.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Text.RegularExpressions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Channels.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Overlapped.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Dataflow.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Parallel.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Thread.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.ThreadPool.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.Timer.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Transactions.Local.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Transactions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.ValueTuple.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Web.HttpUtility.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Web.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.Linq.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.ReaderWriter.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.Serialization.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XDocument.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.XDocument.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XmlDocument.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.XmlSerializer.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xml.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\mscorlib.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\netstandard.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Accessibility.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\DirectWriteForwarder.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Forms.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.AccessControl.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.SystemEvents.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationCore.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemCore.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemData.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemDrawing.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXml.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXmlLinq.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero2.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.AeroLite.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Classic.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Luna.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.Royale.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationFramework.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationUI.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ReachFramework.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.CodeDom.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Configuration.ConfigurationManager.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Design.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.EventLog.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Diagnostics.PerformanceCounter.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.DirectoryServices.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.Common.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.Design.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Drawing.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Packaging.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Printing.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Resources.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Pkcs.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.ProtectedData.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Xml.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Security.Permissions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Threading.AccessControl.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Controls.Ribbon.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Extensions.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.Editors.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Primitives.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Input.Manipulations.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Windows.Presentation.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.Xaml.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationClient.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationClientSideProviders.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationProvider.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\UIAutomationTypes.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\WindowsBase.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\WindowsFormsIntegration.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Native.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-2-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-debug-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-2-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l2-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-handle-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-heap-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-localization-l1-2-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-memory-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-profile-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-string-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-2-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-core-util-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-math-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-private-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-process-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-string-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-time-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\clretwrc.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\clrjit.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\coreclr.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\createdump.exe
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\dbgshim.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\hostfxr.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\hostpolicy.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\mscordaccore.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\mscordaccore_x86_x86_6.0.322.12309.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\mscordbi.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\mscorrc.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\msquic.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ucrtbase.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\D3DCompiler_47_cor3.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PenImc_cor3.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\PresentationNative_cor3.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\vcruntime140_cor3.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\wpfgfx_cor3.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\cs\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\de\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\es\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\fr\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\it\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ja\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ko\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pl\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\ru\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\tr\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationCore.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationUI.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\ReachFramework.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Design.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Xaml.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClient.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClientSideProviders.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationProvider.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationTypes.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsBase.resources.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsFormsIntegration.resources.dll
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.AssemblyReference.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image_Show.Image_Show.resources
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image_Show.ImageShow.resources
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image_Show.Resources.resources
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.GenerateResource.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.GeneratedMSBuildEditorConfig.editorconfig
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.AssemblyInfoInputs.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.AssemblyInfo.vb
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.CoreCompileInputs.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.vbproj.CopyComplete
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.dll
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\refint\Image Show.dll
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.pdb
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\Image Show.genruntimeconfig.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\win-x86\ref\Image Show.dll

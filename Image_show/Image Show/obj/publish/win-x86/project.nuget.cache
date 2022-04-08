@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5b9ggfTbuYgmZYtifrmWPoXi41j+cUH8VJ64KIYIkHcnIKjthtCoe0eHNW/ocl+jgoXNGhREAHcKyOlReIWBg==",
+  "success": true,
+  "projectFilePath": "W:\\Image_show\\Image Show\\Image Show.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeilsonaraujo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.3\\microsoft.netcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\jeilsonaraujo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\jeilsonaraujo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x86.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

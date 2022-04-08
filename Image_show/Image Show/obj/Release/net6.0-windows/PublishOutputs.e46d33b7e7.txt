@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\Image Show.exe
+\\Mac\Home\Desktop\Image Show.dll
+\\Mac\Home\Desktop\Image Show.deps.json
+\\Mac\Home\Desktop\Image Show.runtimeconfig.json
+\\Mac\Home\Desktop\Image Show.pdb

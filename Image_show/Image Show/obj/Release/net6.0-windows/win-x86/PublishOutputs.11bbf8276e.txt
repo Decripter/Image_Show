@@ -1,0 +1,7 @@
+W:\release\Image Show.pdb
+W:\release\D3DCompiler_47_cor3.dll
+W:\release\PenImc_cor3.dll
+W:\release\PresentationNative_cor3.dll
+W:\release\vcruntime140_cor3.dll
+W:\release\wpfgfx_cor3.dll
+W:\release\Image Show.exe

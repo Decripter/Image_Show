@@ -1,0 +1,38 @@
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\Image Show.exe
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\Image Show.deps.json
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\Image Show.runtimeconfig.json
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\Image Show.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\bin\Release\net6.0-windows\Image Show.pdb
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.vbproj.AssemblyReference.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image_Show.Image_Show.resources
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image_Show.ImageShow.resources
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image_Show.Resources.resources
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.vbproj.GenerateResource.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.AssemblyInfoInputs.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.AssemblyInfo.vb
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.vbproj.CoreCompileInputs.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\refint\Image Show.dll
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.pdb
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\Image Show.genruntimeconfig.cache
+C:\Users\jeilsonaraujo\source\repos\Image Show\Image Show\obj\Release\net6.0-windows\ref\Image Show.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\Image Show.exe
+W:\Image_show\Image Show\bin\Release\net6.0-windows\Image Show.deps.json
+W:\Image_show\Image Show\bin\Release\net6.0-windows\Image Show.runtimeconfig.json
+W:\Image_show\Image Show\bin\Release\net6.0-windows\Image Show.dll
+W:\Image_show\Image Show\bin\Release\net6.0-windows\Image Show.pdb
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.vbproj.AssemblyReference.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image_Show.Image_Show.resources
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image_Show.ImageShow.resources
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image_Show.Resources.resources
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.vbproj.GenerateResource.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.GeneratedMSBuildEditorConfig.editorconfig
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.AssemblyInfoInputs.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.AssemblyInfo.vb
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.vbproj.CoreCompileInputs.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.dll
+W:\Image_show\Image Show\obj\Release\net6.0-windows\refint\Image Show.dll
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.pdb
+W:\Image_show\Image Show\obj\Release\net6.0-windows\Image Show.genruntimeconfig.cache
+W:\Image_show\Image Show\obj\Release\net6.0-windows\ref\Image Show.dll
