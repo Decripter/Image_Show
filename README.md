@@ -4,6 +4,8 @@ Esta aplicação serve para exibir imagens em uma segunda tela, escolhendo quais
 Obs: É necessário que outro monitor esteja conectado ao dispositivo e que esteja em modo Estendido para que a aplicação projete no outro monitor, 
 caso contrário a imagem será exibida em tela cheia na tela principal(use Alt + Tab para alternar entre as telas e fechas a segunda tela).
 
+<a href="https://github.com/Decripter/Image_Show/raw/master/release/Image%20Show.exe.zip">Download</a>
+
 ## Modos de Exibição e Seleção:
 
 ### Modo de Seleção:
